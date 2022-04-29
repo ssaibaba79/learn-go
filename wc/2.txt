@@ -1,0 +1,6 @@
+this is text file
+to test line
+word
+
+and character
+count
